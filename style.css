@@ -7,14 +7,14 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 400px;
+    height: 500px;
     background: url(https://akket.com/wp-content/uploads/2018/10/OneWeb-Besplatnyi-sotovyi-operator-5.jpg) bottom no-repeat;
     background-size: cover;
 }
 
 h1 {
     color: #0a0a0a;
-    font-size: 4rem;
+    font-size: 5rem;
     font-family: 'Times New Roman', Times, serif';
 }
 
